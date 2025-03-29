@@ -1,8 +1,5 @@
 # Author: Kaiden R. Sewradj
 
-# Project directory
-DIR=
-
 ########## OPTIONAL ##########
 # Either move all .pep files from TransDecoder to a single folder
 # Or allow script to create a symlinks 
@@ -15,5 +12,5 @@ transdecoderOut=
 # Input directory with one file per species 
 sonicIn=sonic_input
 # Change to folder with previous run to add to existing clusters
-sonicOut=sonicparanoid_results
+sonicOut=results
 

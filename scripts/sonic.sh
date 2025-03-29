@@ -1,6 +1,6 @@
 #!/bin/bash
 
-module load sonicparanoid
+module load sonicparanoid/1.3.8
 source $1
 
 # Check if input directory exists
